@@ -1,0 +1,10 @@
+/home/lynx/Documents/Project/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.deps.json
+/home/lynx/Documents/Project/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.json
+/home/lynx/Documents/Project/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.dev.json
+/home/lynx/Documents/Project/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.dll
+/home/lynx/Documents/Project/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.pdb
+/home/lynx/Documents/Project/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csproj.CoreCompileInputs.cache
+/home/lynx/Documents/Project/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfoInputs.cache
+/home/lynx/Documents/Project/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
+/home/lynx/Documents/Project/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
+/home/lynx/Documents/Project/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb

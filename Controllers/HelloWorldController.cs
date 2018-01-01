@@ -12,11 +12,12 @@ namespace McvcMovie.Controlles
         }
 
         // GET: /HelloWorld/Welcome
-        public string Welcome(string name, int ID)
+        public IActionResult Welcome(string name, int numTimes =1)
         {
-            string command;
-            command = name + ID.ToString();
-            return (command); 
+            ViewData["Massage"] = "Hello "+ name;
+            ViewData["Numtimes"] = numTimes;
+
+            return View();
         }
     }
 }
